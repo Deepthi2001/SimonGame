@@ -6,6 +6,9 @@ var started = false;
 var level = 0;
 var maxlevel=0;
 
+function rules(){
+    alert("IMPORTANT RULES \n 1. Simon will give the signals and try repeating same order of colors. \n 2. When you quit the game the score will be the last highest level. \n 3. When you cross highscore you get badges beside your score.");
+}
 
 function buttonClick1() {
     if (!started) {
