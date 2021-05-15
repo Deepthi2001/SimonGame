@@ -27,8 +27,8 @@ body {
   display:grid;
   grid-template-columns: 120px 120px;
   grid-row: auto auto;
-  grid-column-gap: 20px;
-  grid-row-gap: 20px;
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
 }
   .btn{
     border: 6px solid black;
