@@ -23,7 +23,7 @@ body {
   margin: 10px auto;
   padding: 30px;
   width: 300px;
-  height: 300px;
+  height: 400px;
   display:grid;
   grid-template-columns: 120px 120px;
   grid-row: auto auto;
